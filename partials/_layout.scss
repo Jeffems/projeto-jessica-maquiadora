@@ -4,6 +4,10 @@
     margin: 0 auto;
     padding: 0 10px;
 }
+
+.bg-home{
+    position: relative;
+  }
 .bg-home::before{
     content: ''; 
     display: block;
