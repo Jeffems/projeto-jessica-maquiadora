@@ -83,7 +83,7 @@ i {
   padding: 0 10px;
 }
 
-.bg-home:before {
+.bg-home::before {
   content: "";
   display: block;
   position: absolute;
