@@ -286,7 +286,7 @@ i {
 }
 @media screen and (max-width: 768px) {
   .bg-home::before {
-    background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #161316), url("../assets/capa2.png");
+    background-image: linear-gradient(to bottom, rgba(6, 18, 30, 0.1), #161316), url("../assets/automaquiagem-card.jpg");
   }
 }
 .servicos-automaquiagem {
